@@ -29,4 +29,3 @@ https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history
 
 Github Website Link:  https://revhatakdogan.github.io/ie421_project_summer-olympics-analysis/
 
-![image](https://github.com/user-attachments/assets/d96f44c5-dba9-4d71-b874-23f518518571)
